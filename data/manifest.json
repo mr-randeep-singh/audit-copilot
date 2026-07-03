@@ -1,0 +1,98 @@
+[
+  {
+    "ticker": "XOM",
+    "company": "EXXON MOBIL CORP",
+    "cik": "34088",
+    "form": "10-K",
+    "filing_date": "2026-02-18",
+    "accession_no": "0000034088-26-000045"
+  },
+  {
+    "ticker": "CVX",
+    "company": "CHEVRON CORP",
+    "cik": "93410",
+    "form": "10-K",
+    "filing_date": "2026-02-24",
+    "accession_no": "0000093410-26-000078"
+  },
+  {
+    "ticker": "COP",
+    "company": "CONOCOPHILLIPS",
+    "cik": "1163165",
+    "form": "10-K",
+    "filing_date": "2026-02-17",
+    "accession_no": "0001163165-26-000009"
+  },
+  {
+    "ticker": "SLB",
+    "company": "SLB LIMITED/NV",
+    "cik": "87347",
+    "form": "10-K",
+    "filing_date": "2026-01-23",
+    "accession_no": "0001193125-26-021017"
+  },
+  {
+    "ticker": "NEE",
+    "company": "NEXTERA ENERGY INC",
+    "cik": "753308",
+    "form": "10-K",
+    "filing_date": "2026-02-13",
+    "accession_no": "0000753308-26-000015"
+  },
+  {
+    "ticker": "DUK",
+    "company": "Duke Energy CORP",
+    "cik": "1326160",
+    "form": "10-K",
+    "filing_date": "2026-02-26",
+    "accession_no": "0001326160-26-000014"
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMORGAN CHASE & CO",
+    "cik": "19617",
+    "form": "10-K",
+    "filing_date": "2026-02-13",
+    "accession_no": "0001628280-26-008131"
+  },
+  {
+    "ticker": "GS",
+    "company": "GOLDMAN SACHS GROUP INC",
+    "cik": "886982",
+    "form": "10-K",
+    "filing_date": "2026-02-25",
+    "accession_no": "0000886982-26-000091"
+  },
+  {
+    "ticker": "BAC",
+    "company": "BANK OF AMERICA CORP /DE/",
+    "cik": "70858",
+    "form": "10-K",
+    "filing_date": "2026-02-25",
+    "accession_no": "0000070858-26-000157"
+  },
+  {
+    "ticker": "MS",
+    "company": "MORGAN STANLEY",
+    "cik": "895421",
+    "form": "10-K",
+    "filing_date": "2026-02-19",
+    "accession_no": "0000895421-26-000086"
+  },
+  {
+    "ticker": "AXP",
+    "company": "AMERICAN EXPRESS CO",
+    "cik": "4962",
+    "form": "10-K",
+    "filing_date": "2026-02-06",
+    "accession_no": "0000004962-26-000080"
+  },
+  {
+    "ticker": "BLK",
+    "company": "BlackRock, Inc.",
+    "cik": "2012383",
+    "form": "10-K",
+    "filing_date": "2026-02-25",
+    "accession_no": "0001193125-26-071966"
+  }
+]
